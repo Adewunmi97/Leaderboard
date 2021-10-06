@@ -1,0 +1,43 @@
+@import '~bootstrap/scss/bootstrap';
+
+body {
+  display: flex;
+  align-items: center;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 3rem;
+  margin-top: -8rem;
+}
+
+.border {
+  border: 25px solid black;
+}
+
+.title {
+  margin-left: 18px;
+}
+
+.score-header {
+  display: flex;
+  text-align: center;
+  margin: 10px;
+  justify-content: space-around;
+}
+
+.score-list {
+  padding: 5px;
+}
+
+.submit-button {
+  margin-left: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+.add-score-section {
+  padding-left: 8rem;
+}
