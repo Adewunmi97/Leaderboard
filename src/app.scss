@@ -1,0 +1,60 @@
+@import '~bootstrap/scss/bootstrap';
+
+body {
+  display: flex;
+  align-items: center;
+  background-color: aliceblue;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 3rem;
+  margin-top: -8rem;
+}
+
+.border {
+  border: 25px solid black;
+}
+
+.title {
+  margin-left: 18px;
+}
+
+.text {
+  color: rgb(58, 130, 151);
+}
+
+.score-header {
+  display: flex;
+  text-align: center;
+  margin: 10px;
+  justify-content: space-around;
+}
+
+.score-list {
+  padding: 5px;
+}
+
+.submit-button {
+  margin-left: 0;
+}
+
+li {
+  color: black;
+}
+
+li:nth-child(odd) {
+  background-color: rgb(80, 204, 241);
+}
+
+li:nth-child(even) {
+  background-color: rgb(230, 224, 230);
+}
+
+ul {
+  list-style: none;
+}
+
+.add-score-section {
+  padding-left: 8rem;
+}
