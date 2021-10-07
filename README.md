@@ -16,7 +16,7 @@ The leaderboard website displays scores submitted by different players. It also 
 
 ## Live Demo
 
-[Live Demo Link]
+[Live Demo Link](https://naughty-hoover-f391c8.netlify.app/)
 
 ## Getting Started
 
@@ -72,7 +72,7 @@ npm run build
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Adewunmi97/Leaderboard-app/issues)/).
+Feel free to check the [issues page](https://github.com/Adewunmi97/Leaderboard/issues)/).
 
 ## Show your support
 
@@ -81,7 +81,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - [Microverse](https://www.microverse.org/)
-- [Leaderboard API Service]()
+- [Leaderboard API Service]([https://us-central1-js-capstone-backend.cloudfunctions.net/api/])
 - [Bootswatch](https://bootswatch.com/)
 
 ## 📝 License
